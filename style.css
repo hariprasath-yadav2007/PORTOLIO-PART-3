@@ -1,0 +1,30 @@
+*{
+    border:solid;
+    border-color:#9ACD32;
+   
+    background-color: #000000;
+    color:#FFFFFF;
+}
+.abc{
+    background-color:#1A0D08;
+    
+}
+.header{
+    background-color:#000000;
+}
+.grid{
+    justify-content:center;
+    display:flex;
+    flex-wrap:wrap;
+}
+.item{
+    border-color:#FFFFFF;
+}
+h2,h1,p{
+    text-align: center;
+    font-weight:bold;
+}
+.menu{
+    text-align:right;
+    
+}
